@@ -23,8 +23,8 @@ My task was to design and implement the interface and functionalities for accomm
 
 ## Authors:
 
-- **[Jelena Vujović](https://github.com/zanyaIO)**, RA 80/2020 - Guide role
-- **[Miljana Marjanović](https://github.com/MiljanaMa)**, RA 123/2020 - Guest 1 role
-- **[Anastasija Novaković](https://github.com/anastano)**, RA 77/2020 - Guest 2 role
+- **[Jelena Vujović, RA 80/2020](https://github.com/zanyaIO)** - Guide role
+- **[Miljana Marjanović, RA 123/2020](https://github.com/MiljanaMa)** - Guest 1 role
+- **[Anastasija Novaković, RA 77/2020](https://github.com/anastano)** - Guest 2 role
 - **[Milena Marković, RA 83/2020](https://github.com/MilenaM06)** - Owner role
 
