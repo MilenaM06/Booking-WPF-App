@@ -21,7 +21,7 @@ My task was to design and implement the interface and functionalities for accomm
 - **draw.io**
 - **PlantUML**
 
-## Authors:
+## Authors
 
 - **[Jelena Vujović, RA 80/2020](https://github.com/zanyaIO)** - Guide role
 - **[Miljana Marjanović, RA 123/2020](https://github.com/MiljanaMa)** - Guest 1 role
