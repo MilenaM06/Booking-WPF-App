@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This project was developed for the **SIMS (Specification and Software Modeling)** and **HCI (Human-Computer Interaction)** courses at the **Faculty of Technical Sciences in Novi Sad**.
+This project was developed for the **Specification and Software Modeling** and **Human-Computer Interaction** courses at the **Faculty of Technical Sciences in Novi Sad**.
 
 The **Booking Application** was developed collaboratively by a team of four using **C#** and **XAML** as a **Windows Presentation Foundation (WPF)** application. Data management was handled through **CSV** files stored in the `Resources/Database` folder. Each team member was responsible for designing and implementing the functionality for a different user role while adhering to specific requirements.
 
